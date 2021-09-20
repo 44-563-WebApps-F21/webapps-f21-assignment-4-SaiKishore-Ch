@@ -1,0 +1,28 @@
+.speech{
+    font-family: 'Times New Roman';
+    font-size: 18px;
+    color: black;
+}
+
+.stage-direction{
+    font-family: Georgia;
+    font-size: 18px;
+    color: black;
+    background-color:cyan ;
+}
+.name{
+    font-family: Verdana;
+    font-size: 18px;
+    color: black;
+}
+.stage-direction:hover
+{
+    color:red;
+    background-color: green;
+}
+.MARCHMONT{
+ color: darkgreen;
+}
+.BASILDON{
+ color: darkred;
+}

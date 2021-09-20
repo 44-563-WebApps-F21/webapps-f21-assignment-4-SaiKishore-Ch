@@ -36,7 +36,7 @@ th{
     color:black;
     border: 1px solid black;
     text-align: center;
-    background-color: #006A4E;
+    background-color: orange;
 
 }
 td{
@@ -46,5 +46,17 @@ td{
 
 }
 tr:nth-child(even){
-    background-color: lightpink;
+    background-color: #006A4E;
+}
+.MASON{
+color: blue;
+}
+.LORD_CAVERSHAM{
+color: blueviolet;
+}
+.LADY_CHILTERN{
+color: pink;
+}
+.MABEL_CHILTERN{
+color: purple;
 }

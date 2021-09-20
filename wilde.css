@@ -60,3 +60,9 @@ color: pink;
 .MABEL_CHILTERN{
 color: purple;
 }
+.name:hover{
+    text-shadow: 2px 4px 3px red;
+    color: #006A4E;
+    filter: blue(3px);
+    border: solid 2px rgb(158, 126,143);
+}

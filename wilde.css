@@ -63,6 +63,38 @@ color: purple;
 .name:hover{
     text-shadow: 2px 4px 3px red;
     color: #006A4E;
-    filter: blue(3px);
+    filter: blur();
     border: solid 2px rgb(158, 126,143);
 }
+a:hover {
+    background-color: green;
+    color:black;
+    width: 10%;
+  }
+
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  ul.navbar-horizontal {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  ul.navbar-horizontal li {
+    float: left;
+    color: #000;
+    background-color: red;
+    border: 2px solid black;
+  }
+  ul.navbar-horizontal a {
+    display: block;
+    padding: 8px;
+  }
+  ul.navbar-horizontal a:hover {
+    background-color: rgb(115, 204, 43);
+    color: white;
+    width: auto;
+  }
